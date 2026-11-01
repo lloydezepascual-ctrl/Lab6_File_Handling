@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+-------------------------------------
+Last Name: Pascual
+Student ID: TUPM-26-4321
+Seed Digit: 1
+ID Sum: 18
+Verification Value: 127
+Dataset Sample Size: 68
+Valid Records: 68
+Average Global Active Power: 4.062
+JSON File: Pascual_TUPM-26-4321_record.json
+Backup File: Pascual_TUPM-26-4321_record.csv

@@ -1,0 +1,5 @@
+Student: Pascual
+Student ID: TUPM-26-4321
+Seed digit: 1
+ID sum: 18
+Verification value: 127
