@@ -1,0 +1,35 @@
+{
+    "Records Processed": 1018,
+    "Target Status Class": "3xx",
+    "Matching Records": 164,
+    "Status Code Counts": {
+        "200": 826,
+        "302": 143,
+        "304": 21,
+        "206": 8,
+        "404": 5,
+        "No": 15
+    },
+    "Top 5 URLs": [
+        {
+            "URL": "/",
+            "Count": 46
+        },
+        {
+            "URL": "/process.php",
+            "Count": 35
+        },
+        {
+            "URL": "/contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest",
+            "Count": 34
+        },
+        {
+            "URL": "/home.php",
+            "Count": 9
+        },
+        {
+            "URL": "/logout.php",
+            "Count": 7
+        }
+    ]
+}
